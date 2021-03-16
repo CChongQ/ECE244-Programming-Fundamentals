@@ -1,2 +1,2 @@
-# ECE244-Programming-Fundamentals
+# Programming Fundamentals
 2nd Year programming course use C++
